@@ -116,6 +116,8 @@ offline = [
 observability = [
     # LLM observability and tracing dependencies
     "langfuse>=3.8.1",
+]
+
 evaluation = [
     # RAG evaluation dependencies (RAGAS framework)
     "ragas>=0.3.7",
